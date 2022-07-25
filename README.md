@@ -9,9 +9,9 @@
     </a>
     <img src="https://komarev.com/ghpvc/?OlivierS7&style=flat-square&color=blue" alt=""/>
   </div>
-  ---
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
     ---
     
     ### :woman_technologist: About Me : 
@@ -46,6 +46,4 @@
       ### :fire: My Stats :
       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlivierS7&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     </div>
-  </div>
-  
 </div>
